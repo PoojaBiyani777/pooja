@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    	{{ hello }}
-    </div>
+    Hello World
   </div>
 </template>
 
