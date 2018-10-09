@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="805a8340-7864-433c-ac06-b7b8fe21be3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Details.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/CallLog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/CallLog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/MainTimeline.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/MainTimeline.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Timeline.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Timeline.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/static/css/style.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="729218791">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="java" value="2" />
+          <entry key="vue" value="8" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="63" />
+          <entry key="vue" value="1424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="63" />
+          <entry key="PLAIN_TEXT" value="1424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/CallLog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2220">
+              <caret line="148" column="53" selection-start-line="148" selection-start-column="53" selection-end-line="148" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-server-module/src/main/java/com/zemoso/hrAnalytics/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Timeline.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/MainTimeline.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Details.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/CallLog.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9045">
+              <caret line="606" column="10" selection-start-line="606" selection-start-column="10" selection-end-line="606" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-server-module/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hr-analytics/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>date</find>
+      <find>datu</find>
+      <find>cir</find>
+      <find>month</find>
+      <find>timeline-lable</find>
+      <find>line</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hr-analytics" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/CallLog.vue" />
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Timeline.vue" />
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/App.vue" />
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/MainTimeline.vue" />
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Details.vue" />
+        <option value="$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/static/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="16" />
+    <option name="width" value="1281" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-assets-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-assets-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-assets-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-assets-module" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-assets-module" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zemoso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zemoso" type="462c0819:PsiDirectoryNode" />
+              <item name="hrAnalytics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p11" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="hr-analytics-server-module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zemoso" type="462c0819:PsiDirectoryNode" />
+              <item name="hrAnalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537768130698" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="805a8340-7864-433c-ac06-b7b8fe21be3a" name="Default Changelist" comment="" />
+      <created>1537340962179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537340962179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26613545" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-server-module/src/main/java/com/zemoso/hrAnalytics/model/CallLog.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/AddContact.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="26" selection-start-line="37" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/CallLog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="53" selection-start-line="148" selection-start-column="53" selection-end-line="148" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Timeline.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/MainTimeline.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/components/Details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/CallLog.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-assets-module/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9045">
+          <caret line="606" column="10" selection-start-line="606" selection-start-column="10" selection-end-line="606" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-server-module/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hr-analytics/hr-analytics-server-module/src/main/java/com/zemoso/hrAnalytics/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
